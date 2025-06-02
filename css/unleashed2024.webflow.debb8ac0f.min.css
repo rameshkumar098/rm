@@ -2658,7 +2658,8 @@ background-image: linear-gradient(#07201c, #07201c);}
 .section_themes {
   background-image: linear-gradient(#094137, #094137);
   position: relative;
-  overflow: hidden
+  overflow: hidden;
+  
 }
 
 .themes_top_component {
